@@ -1,4 +1,4 @@
-# [Coures notes](https://francesco-plt.gitbook.io/course-notes/) disclaimer
+# [T2A Computer Science and Engineering Notes](https://francesco-plt.gitbook.io/course-notes/) disclaimer
 
 **TLDR**, credits to [ChatGPT](https://chat.openai.com/chat) which kindly worded this disclaimer for me:
 
